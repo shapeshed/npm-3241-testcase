@@ -464,3 +464,4 @@ Debug information from `npm -d install`.
     grunt-contrib-jshint@0.2.0 node_modules/grunt-contrib-jshint
     └── jshint@1.0.0 (peakle@0.0.1, underscore@1.4.4, shelljs@0.1.2, esprima@1.1.0-dev, minimatch@0.2.11, cli@0.4.3)
 
+[1]: https://github.com/isaacs/npm/issues/3241
