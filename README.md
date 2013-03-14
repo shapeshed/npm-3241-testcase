@@ -1,6 +1,6 @@
 # Test case for npm issue #3241
 
-This is a test case for an [npm issue][1] where an `npm install` hangs if there is a tarball in the dependencies of a package.
+This is a test case for an [npm issue][1] where an `npm install` hangs at the end of an install in certain circumstances.
 
 To repeat the bug run
 
